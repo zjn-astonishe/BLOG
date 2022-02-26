@@ -604,6 +604,7 @@ subtitle:
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
     - 精彩不亮丽&#44;起落是无常
+    - Long make the sun shine
 
 # Loading Animation (加載動畫)
 preloader: false
