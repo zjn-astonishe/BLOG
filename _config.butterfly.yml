@@ -827,7 +827,7 @@ inject:
     - <script src="https://cubism.live2d.com/sdk-web/cubismcore/live2dcubismcore.min.js"></script>
     - <script src="https://cdn.jsdelivr.net/npm/pixi.js@4.6.1/dist/pixi.min.js"></script>
     - <script src="https://cdn.jsdelivr.net/npm/live2dv3@1.2.2/live2dv3.min.js"></script>
-    - <script>window.onload=()=>{new l2dViewer({width:1000,height:750,el:document.getElementById('L2dCanvas'),basePath:'https://cdn.jsdelivr.net/gh/zjn-astonishe/cdn@1.2',modelName:'lafei_4',})}</script>
+    - <script>window.onload=()=>{new l2dViewer({width:1000,height:750,el:document.getElementById('L2dCanvas'),basePath:'https://cdn.jsdelivr.net/gh/zjn-astonishe/cdn@1.2',modelName:'lafei_4',mobileLimit:true})}</script>
     # - <script src="xxxx"></script>
 
 # CDN
