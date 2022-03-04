@@ -2,7 +2,7 @@
 title: Hello World
 date:  2022-2-25
 updated:
-tags: test
+tag: test
 categories: test
 comments:
 description: 
